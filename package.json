@@ -1,5 +1,5 @@
 {
-  "name": "acme_shopping",
+  "name": "shopping card - react",
   "version": "1.0.0",
   "description": "If you have any notes or instructions about the exercise, please write them in this file.",
   "main": "index.js",
@@ -39,6 +39,5 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Acme Company",
   "license": "ISC"
 }

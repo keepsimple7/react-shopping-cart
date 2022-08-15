@@ -4,3 +4,7 @@ npm install
 npm start  
 
 If you have any notes or instructions about the exercise, please write them here.
+
+## Contact
+
+keepsimple95@outlook.com
